@@ -14,7 +14,6 @@ graph TD;
     ILPs --> GBP-ILP["GBP-ILP [1]"];
     ILPs --> GBP-ILP-RG["GBP-ILP-RG [1]"];
     ILPs --> ILP-PROP["ILP-PROP [2]"];
-    ILPs --> ILP-COV;
     QUBOs --> sQUBO["sQUBO [1]"];
     QUBOs --> uQUBO["uQUBO [1]"];
 ```
