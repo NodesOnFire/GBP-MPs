@@ -12,7 +12,7 @@ graph TD;
     CSPs --> GBP-IP["GBP-IP [2]"];
     ILPs --> COV-ILP["COV-ILP [1]"];
     ILPs --> GBP-ILP["GBP-ILP [1]"];
-    ILPs --> GBP-ILP-RG["GBP-ILP-RG [1]"];
+    ILPs --> GBP-ILP-RG["GBP-ILP-RG [1]\n22"];
     ILPs --> ILP-PROP["ILP-PROP [2]"];
     QUBOs --> sQUBO["sQUBO [1]"];
     QUBOs --> uQUBO["uQUBO [1]"];
