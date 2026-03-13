@@ -8,7 +8,7 @@ graph TD;
     MPs["Mathematical Programs"] --> ILPs;
     MPs["Mathematical Programs"] --> QUBOs;
     MILPs --> PROP-MILP["PROP-MILP [1]"];
-    CSP --> COV-CSP["COV-CSP [1]"];
+    CSPs --> COV-CSP["COV-CSP [1]"];
     CSPs --> GBP-IP["GBP-IP [2]"];
     ILPs --> COV-ILP["COV-ILP [1]"];
     ILPs --> GBP-ILP["GBP-ILP [1]"];
