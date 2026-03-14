@@ -7,8 +7,8 @@ A collection of compact Mathematical Programs for the Graph Burning Problem
 | Mathematical Program | MP |
 | Mixed-Integer LIner Program | MILP |
 | Constraint Satisfaction Problem | CSP |
-| Integer LInear Program | ILP |
-| QUadratic Unconstrained Binary Optimization | QUBO |
+| Integer Linear Program | ILP |
+| Quadratic Unconstrained Binary Optimization | QUBO |
 # Diagram
 ```mermaid
 graph TD;
@@ -27,3 +27,6 @@ graph TD;
     QUBO --> d["sQUBO [1]
                 uQUBO [1]"];
 ```
+| Program | Variables | Constraints | Binary search | Pros | Cons | Reference |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+PROP-MILP | 2Un | Un+U+n | x | Explicit propagation process | Large number of variables and constraints |
