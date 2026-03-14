@@ -7,5 +7,7 @@ graph TD;
     MP["Mathematical Programs"] --> CSP;
     MP["Mathematical Programs"] --> ILP;
     MP["Mathematical Programs"] --> QUBO;
-    MILP --> PROP-MILP["zzz&nbsp;&nbsp;&nbsp;z&nbsp;zzzz"];
+    MILP --> a["PROP-MILP"];
+    CSP --> a["COV-CSP [1]
+               GBP-IP [2]"];
 ```
