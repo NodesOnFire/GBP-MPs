@@ -4,7 +4,6 @@ This repository lists some of the main mathematicla programs for the graph burni
 |  | Acronym |
 | :--- | :---: |
 | Graph Burning Problem | GBP |
-| Mathematical Program | MP |
 | Mixed-Integer LIner Program | MILP |
 | Constraint Satisfaction Problem | CSP |
 | Integer Linear Program | ILP |
