@@ -1,7 +1,6 @@
 # GBP-MPs
 A collection of compact Mathematical Programs for the Graph Burning Problem
-# Acronyms
-| Header 1 | Header 2 |
+| Header 1 | Acronym |
 | :--- | :---: |
 | Graph Burning Problem | GBP |
 | Mathematical Program | MP |
