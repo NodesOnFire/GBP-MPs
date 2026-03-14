@@ -1,4 +1,4 @@
-# A collection of compact Mathematical Programs for the Graph Burning Problem
+# Mathematical Programs for the Graph Burning Problem
 # Acronyms
 |  | Acronym |
 | :--- | :---: |
