@@ -53,7 +53,7 @@ To run the executable of PROP-MILP, ILP-PROP, GBP-ILP, GBP-ILP-RG, and ILP-COV y
 ```
 All the other programs do not require an upper bound U. Besides, the input graph must be in mtx format. Namely, the first line has the number of vertices, the second line has the number of edges, and the remaining lines have pairs of vertices (edges) separated by a blank space. The folder dataset contains some graphs in this format. There must be exactly one line for each edge.
 # GBP-ILP with row generation: GBP-ILP-RG
-According to empirical results, the "best" program is GBP-ILP. Of course, such apparent superiority is biased towards the valuation tool, which in this case is Gurobi. In order to enhance the practicality of GBP-ILP, we implemented GBP-ILP-RG, which adds a row generation technique. The details can be consulted in reference [1].
+According to empirical results, the "best" program is GBP-ILP. Of course, such apparent superiority is biased towards the evaluation tool, which in this case is Gurobi. In order to enhance the practicality of GBP-ILP, we implemented GBP-ILP-RG, which adds a row generation technique. The details can be consulted in reference [1].
 # References
 [1] [Cajica-Maceda, L. B., Chaurra-Gutiérrez, F. A., Pérez-Sansalvador, J. C., & García-Díaz, J. (2025). Graph burning: an overview of mathematical programs. arXiv preprint arXiv:2511.18292.](https://arxiv.org/abs/2511.18292).
 
