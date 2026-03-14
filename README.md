@@ -29,4 +29,4 @@ graph TD;
 ```
 | Program | Variables | Constraints | Binary search | Pros | Cons | Reference |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-PROP-MILP | 2Un | Un+U+n | x | Explicit propagation process | Large number of variables and constraints |
+PROP-MILP | $2Un$ | $Un+U+n$ | $\times$ | Explicit propagation process | Large number of variables and constraints |
