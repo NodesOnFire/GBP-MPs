@@ -1,5 +1,6 @@
 # GBP-MPs
 A collection of compact Mathematical Programs for the Graph Burning Problem
+# Acronyms
 |  | Acronym |
 | :--- | :---: |
 | Graph Burning Problem | GBP |
@@ -8,7 +9,7 @@ A collection of compact Mathematical Programs for the Graph Burning Problem
 | Constraint Satisfaction Problem | CSP |
 | Integer LInear Program | ILP |
 | QUadratic Unconstrained Binary Optimization | QUBO |
-
+# Diagram
 ```mermaid
 graph TD;
     MP["Mathematical Programs"] --> MILP;
