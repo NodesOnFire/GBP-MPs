@@ -3,17 +3,9 @@ A collection of compact Mathematical Programs for the Graph Burning Problem
 #
 ```mermaid
 graph TD;
-    MPs["Mathematical Programs"] --> MILPs;
-    MPs["Mathematical Programs"] --> CSPs;
-    MPs["Mathematical Programs"] --> ILPs;
-    MPs["Mathematical Programs"] --> QUBOs;
-    MILPs --> PROP-MILP["PROP-MILP [1]"];
-    CSPs --> COV-CSP["COV-CSP [1]"];
-    CSPs --> GBP-IP["GBP-IP [2]"];
-    ILPs --> COV-ILP["COV-ILP [1]"];
-    ILPs --> GBP-ILP["GBP-ILP [1]"];
-    ILPs --> GBP-ILP-RG["GBP-ILP-RG [1]\n22"];
-    ILPs --> ILP-PROP["ILP-PROP [2]"];
-    QUBOs --> sQUBO["sQUBO [1]"];
-    QUBOs --> uQUBO["uQUBO [1]"];
+    MP["Mathematical Programs"] --> MILP;
+    MP["Mathematical Programs"] --> CSP;
+    MP["Mathematical Programs"] --> ILP;
+    MP["Mathematical Programs"] --> QUBO;
+    MILP --> PROP-MILP["zzz&nbsp;&nbsp;&nbsp;z&nbsp;zzzz"];
 ```
