@@ -51,4 +51,4 @@ To run the executable of PROP-MILP, ILP-PROP, GBP-ILP, and ILP-COV you need to a
 ```
 ./GBP-ILP /dataset/soc-livejournal.mtx 15
 ```
-The input graph must be in mtx format. Namely, the first line has the number of vertices, the second line has the number of edges, and the remaining lines have pairs of vertices (edges) separated by a blank space. The folder dataset contains some graphs in this format. There must be exactly one line for each edge.
+All the other programs do not require an upper bound U. Besides, the input graph must be in mtx format. Namely, the first line has the number of vertices, the second line has the number of edges, and the remaining lines have pairs of vertices (edges) separated by a blank space. The folder dataset contains some graphs in this format. There must be exactly one line for each edge.
