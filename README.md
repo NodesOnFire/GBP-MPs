@@ -2,10 +2,12 @@
 A collection of compact Mathematical Programs for the Graph Burning Problem
 # Acronyms
 
-| Header 1 | Header 2 | Header 3 |
-| :--- | :---: | ---: |
-| Left-aligned | Center-aligned | Right-aligned |
-| Content A | Content B | Content C |
+| Graph Burning Problem | GBP |
+| Mathematical Program | MP |
+| Mixed-Integer LIner Program | MILP |
+| Constraint Satisfaction Problem | CSP |
+| Integer LInear Program | ILP |
+| QUadratic Unconstrained Binary Optimization | QUBO |
 
 ```mermaid
 graph TD;
