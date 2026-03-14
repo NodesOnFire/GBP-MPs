@@ -26,6 +26,7 @@ graph TD;
     QUBO --> d["sQUBO [1]
                 uQUBO [1]"];
 ```
+# Comparative table
 | Program | Variables | Constraints | Binary search | Pros | Cons | Reference |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 PROP-MILP | $2Un$ | $Un+U+n$ | $\times$ | Explicit propagation process | Large number of variables and constraints | [1] |
