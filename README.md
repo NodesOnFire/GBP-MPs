@@ -2,6 +2,7 @@
 A collection of compact Mathematical Programs for the Graph Burning Problem
 # Acronyms
 
+| :--- | :---: | ---: |
 | Graph Burning Problem | GBP |
 | Mathematical Program | MP |
 | Mixed-Integer LIner Program | MILP |
