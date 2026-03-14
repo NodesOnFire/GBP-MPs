@@ -1,6 +1,12 @@
 # GBP-MPs
 A collection of compact Mathematical Programs for the Graph Burning Problem
-#
+# Acronyms
+
+| Header 1 | Header 2 | Header 3 |
+| :--- | :---: | ---: |
+| Left-aligned | Center-aligned | Right-aligned |
+| Content A | Content B | Content C |
+
 ```mermaid
 graph TD;
     MP["Mathematical Programs"] --> MILP;
