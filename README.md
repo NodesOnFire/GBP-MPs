@@ -13,7 +13,8 @@ graph TD;
     ILP --> c["GBP-ILP [1]
                COV-ILP [1]
                ILP-PROP [2]
-               ILP-CMCP [2]"];
+               ILP-CMCP [2]
+               ILP-COV [2]"];
     QUBO --> d["sQUBO [1]
                 uQUBO [1]"];
 ```
