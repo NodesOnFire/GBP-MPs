@@ -10,10 +10,10 @@ graph TD;
     MILP --> a["PROP-MILP [1]"];
     CSP --> b["COV-CSP [1]
                GBP-IP [3]"];
-    ILP --> b["GBP-ILP [1]
+    ILP --> c["GBP-ILP [1]
                COV-ILP [1]
                ILP-PROP [2]
                ILP-CMCP [2]"];
-    QUBO --> c["sQUBO [1]
+    QUBO --> d["sQUBO [1]
                 uQUBO [1]"];
 ```
