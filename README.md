@@ -29,4 +29,13 @@ graph TD;
 ```
 | Program | Variables | Constraints | Binary search | Pros | Cons | Reference |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-PROP-MILP | $2Un$ | $Un+U+n$ | $\times$ | Explicit propagation process | Large number of variables and constraints |
+PROP-MILP | $2Un$ | $Un+U+n$ | $\times$ | Explicit propagation process | Large number of variables and constraints | [1] |
+ILP-PROP | $2Un+U$ | $2Un+U$ | $\times$ | Explicit propagation process | Large number of variables and constraints | [2] |
+COV-CSP | $gn$ | $g+n$ | $\checked$ | Simplest program | Can be infeasible | [1] |
+GBP-IP | $gn$ | $g+2n$ | $\checked$ | Second simplest | Can be infeasible | [3] |
+COV-ILP | $gn$ | $g+n-1$ | $\checked$ | Always feasible | Binary search | [1] |
+ILP-CMCP | $gn+n$ | $g+n$ | $\checked$ | Always feasible | Binary search | [2] |
+GBP-ILP | $Un$ | $2U+n-1$ | $\times$ | Most straightforward program | - | [1] |
+ILP-COV | $Un+n$ | $2U+n+1$ | $\times$ | Second most straightforward | - | [2] |
+sQUBO | $gn+n\lceil \log_2 n \rceil$ | - | $\checked$ | No penalty tuning | Slack variables | [1] |
+uQUBO | $gn$ | - | $\checked$ | Few variables | Penalty tuning | [1] |
