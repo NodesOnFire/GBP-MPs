@@ -1,5 +1,5 @@
 # Mathematical Programs for the Graph Burning Problem
-This repository lists some of the main mathematicla programs for the graph burning problem. All they are implemented in C++ using the Gurobi interface.
+This repository lists some of the main mathematical programs for the graph burning problem. All they are implemented in C++ using the Gurobi interface.
 # Acronyms
 |  | Acronym |
 | :--- | :---: |
