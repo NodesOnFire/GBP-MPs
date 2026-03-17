@@ -55,7 +55,7 @@ All the other programs do not require an upper bound U. Besides, the input graph
 # GBP-ILP with row generation: GBP-ILP-RG
 According to empirical results, the "best" program is GBP-ILP. Of course, such apparent superiority is biased towards the evaluation tool, which in this case is Gurobi. In order to enhance the practicality of GBP-ILP, we implemented GBP-ILP-RG, which adds a row generation technique. The details can be consulted in reference [1].
 # References
-[1] [Cajica-Maceda, L. B., Chaurra-Gutiérrez, F. A., Pérez-Sansalvador, J. C., & García-Díaz, J. (2025). Graph burning: an overview of mathematical programs. arXiv preprint arXiv:2511.18292.](https://arxiv.org/abs/2511.18292).
+[1] [Cajica-Maceda, L.B.; Chaurra-Gutiérrez, F.A.; Pérez-Sansalvador, J.C.; García-Díaz, J. Graph Burning: An Overview of Compact Mathematical Programs. Mathematics 2026, 14, 1011. https://doi.org/10.3390/math14061011](https://doi.org/10.3390/math14061011).
 
 [2] [García-Díaz, J., Cornejo-Acosta, J. A., & Trejo-Sánchez, J. A. (2025). A greedy heuristic for graph burning. Computing, 107(3), 91.](https://link.springer.com/article/10.1007/s00607-025-01436-9)
 
