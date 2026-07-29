@@ -51,7 +51,7 @@ nano ~/.bashrc
 ``` 
 5. Add
 ```
-export GUROBI_HOME=/home/username/gurobi1302/linux64
+export GUROBI_HOME=/home/username/gurobi120/linux64
 export LD_LIBRARY_PATH=$GUROBI_HOME/lib:$LD_LIBRARY_PATH
 ```
 7. Close your terminal for the changes to take effect.
