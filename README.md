@@ -54,8 +54,8 @@ nano ~/.bashrc
 export GUROBI_HOME=/home/username/gurobi120/linux64
 export LD_LIBRARY_PATH=$GUROBI_HOME/lib:$LD_LIBRARY_PATH
 ```
-7. Close your terminal for the changes to take effect.
-8. Do not forget to ask Gurobi for an academic license: https://www.gurobi.com/academics
+6. Close your terminal for the changes to take effect.
+7. Do not forget to ask Gurobi for an academic license: https://www.gurobi.com/academics
 # Compile and run
 To compile each cpp file you need Gurobi and GNU GCC installed in your system. In particular, we used Gurobi 12.0.3 and GNU GCC 14.2.0.
 For instance, to compile GBP-ILP run the following command.
@@ -78,7 +78,7 @@ According to empirical results, the "best" program is GBP-ILP. Of course, such a
 
 [3] [Pereira, F. D. C., de Rezende, P. J., Yunes, T., & Morato, L. F. B. (2024). A row generation algorithm for finding optimal burning sequences of large graphs. In 32nd Annual European Symposium on Algorithms (ESA 2024) (pp. 94-1). Schloss Dagstuhl–Leibniz-Zentrum für Informatik.](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2024.94#:~:text=In%20*A%20Row%20Generation%20Algorithm%20for%20Finding,million%20vertices%20in%20less%20than%2019%20minutes.)
 # Contact
-bcajica@inaoep.mx
-chaura@inaoep.mx
-jcp.sansalvador@inaoep.mx
-jesus.garcia@secihti.mx
+*bcajica@inaoep.mx
+*chaura@inaoep.mx
+*jcp.sansalvador@inaoep.mx
+*jesus.garcia@secihti.mx
