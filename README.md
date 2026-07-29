@@ -77,3 +77,8 @@ According to empirical results, the "best" program is GBP-ILP. Of course, such a
 [2] [García-Díaz, J., Cornejo-Acosta, J. A., & Trejo-Sánchez, J. A. (2025). A greedy heuristic for graph burning. Computing, 107(3), 91.](https://link.springer.com/article/10.1007/s00607-025-01436-9)
 
 [3] [Pereira, F. D. C., de Rezende, P. J., Yunes, T., & Morato, L. F. B. (2024). A row generation algorithm for finding optimal burning sequences of large graphs. In 32nd Annual European Symposium on Algorithms (ESA 2024) (pp. 94-1). Schloss Dagstuhl–Leibniz-Zentrum für Informatik.](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2024.94#:~:text=In%20*A%20Row%20Generation%20Algorithm%20for%20Finding,million%20vertices%20in%20less%20than%2019%20minutes.)
+# Contact
+bcajica@inaoep.mx
+chaura@inaoep.mx
+jcp.sansalvador@inaoep.mx
+jesus.garcia@secihti.mx
