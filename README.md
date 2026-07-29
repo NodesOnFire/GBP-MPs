@@ -44,14 +44,14 @@ uQUBO | $gn$ | - | $\checkmark$ | Few variables | Penalty tuning | [1] |
 If Gurobi for C++ is not installed, then follow the next steps:
 1. Download Gurobi optimizer (.tar.gz) from https://www.gurobi.com/product/download-center/
 2. Extract the folder on your preferred path.
-3. Identify GUROBI_HOME, which must be similar to /home/username/gurobi1302/linux64
+3. Identify GUROBI_HOME, which might be similar to /home/username/gurobi120/linux64
 4. On a terminal, type:
 ```
 nano ~/.bashrc
 ``` 
 5. Add
 ```
-export GUROBI_HOME=/home/jgd/gurobi1302/linux64
+export GUROBI_HOME=/home/username/gurobi1302/linux64
 export LD_LIBRARY_PATH=$GUROBI_HOME/lib:$LD_LIBRARY_PATH
 ```
 7. Close your terminal for the changes to take effect.
