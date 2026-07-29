@@ -40,6 +40,9 @@ GBP-ILP | $Un$ | $2U+n-1$ | $\times$ | Most straightforward program | - | [1] |
 ILP-COV | $Un+n$ | $2U+n+1$ | $\times$ | Second most straightforward | - | [2] |
 sQUBO | $gn+n\lceil \log_2 n \rceil$ | - | $\checkmark$ | No penalty tuning | Slack variables | [1] |
 uQUBO | $gn$ | - | $\checkmark$ | Few variables | Penalty tuning | [1] |
+# Dataset
+The smaller instances can be consulted in the dataset folder. \
+Larger instances can be downloaded from https://ccc.inaoep.mx/~jesgadiaz/dataset
 # Gurobi setup on Ubuntu 26.04
 If Gurobi for C++ is not installed, then follow the next steps:
 1. Download Gurobi optimizer (.tar.gz) from https://www.gurobi.com/product/download-center/
